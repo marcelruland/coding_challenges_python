@@ -15,7 +15,7 @@ class Box(object):
                 for z in range(-1, 2):
                     sum = abs(x) + abs(y) + abs(z)
                     new_r = self.r / 3
-                    if sum > 1:
+                    if sum > 1: # change > to <= for a different, imo cooler, fractal
                         b = Box(self.pos.x + x * new_r, self.pos.y + y * new_r,self.pos.z + z * new_r, new_r)
                         boxes.append(b)
         return boxes

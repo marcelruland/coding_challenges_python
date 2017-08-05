@@ -2,7 +2,7 @@
 Processing Python Mode implementation of Daniel Shiffman's 28th coding challenge
 "Meta Balls"
 github.com/CodingTrain/Rainbow-Code/tree/master/CodingChallenges/CC_28_MetaBalls
-https://www.youtube.com/watch?v=ccYLb7cLB1I
+www.youtube.com/watch?v=ccYLb7cLB1I
 
 Created on Friday Aug 4 2017
 @author: Marcel Ruland
